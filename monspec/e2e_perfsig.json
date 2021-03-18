@@ -19,7 +19,7 @@
         {
             "timeseriesId" : "com.dynatrace.builtin:service.responsetime",
             "aggregation" : "avg",
-            "entityIds" : "",
+            "entityIds" : "SERVICE_METHOD-307689CDF87D459F",
             "upperSevere" : 800.0,
             "upperWarning" : 600.0
         }
